@@ -1,0 +1,12 @@
+digraph G {
+node [shape=record fontname=Arial]
+1005 [label="Key: Казань; Value: 1005"]
+859 [label="Key: Новгород; Value: 859"]
+1893 [label="Key: Новосибирск; Value: 1893"]
+1703 [label="Key: Санкт-Петербург; Value: 1703"]
+1147 [label="Key: Москва; Value: 1147"]
+1005 -> 1893
+1005 -> 859
+1703 -> 1147
+1147 -> 1005
+}
