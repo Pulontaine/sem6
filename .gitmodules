@@ -1,0 +1,6 @@
+[submodule "lab2_1_mirror"]
+	path = lab2_1_mirror
+	url = git@github.com:Pulontaine/lab2_1_mirror.git
+[submodule "lab2_2_mirror"]
+	path = lab2_2_mirror
+	url = git@github.com:Pulontaine/lab2_2_mirror.git
